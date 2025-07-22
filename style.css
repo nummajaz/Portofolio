@@ -539,8 +539,8 @@ section .skills{
 }
 
 .featured-projects .project_pic img {
-    width: 100%;
-    max-width: 100%;
+    width: 50%;
+    max-width: 50%;
     vertical-align: bottom;
 }
 
